@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Customer Services
+Help Center
+Contact Us
+Report Abuse
+Submit a Dispute
+Policies & Rules
+Get Paid for Your Feedback]]>
+    </line>
+    <line>
+      <![CDATA[About Us
+About Alibaba.com
+About Alibaba Group
+Sitemap]]>
+    </line>
+    <line>
+      <![CDATA[Source on Alibaba.com
+Resources
+All Categories
+Request for Quotation
+Ready to Ship
+Buyer Partners]]>
+    </line>
+    <line>
+      <![CDATA[Sell on Alibaba.com
+Supplier Memberships
+Learning Center
+Partner Program]]>
+    </line>
+    <line>
+      <![CDATA[Trade Services
+Trade Assurance
+Business Identity
+Logistics Service
+Production Monitoring & Inspection Services
+Letter of Credit]]>
+    </line>
+    <line>
+      <![CDATA[Available on the App Store Available on Android]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Twitter Youtube In]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Total number od items searched:4]]>
+    </line>
+    <line>
+      <![CDATA[Used]]>
+    </line>
+    <line>
+      <![CDATA[Refurbished]]>
+    </line>
+    <line>
+      <![CDATA[New]]>
+    </line>
+    <line>
+      <![CDATA[Netbook]]>
+    </line>
+    <line>
+      <![CDATA[The item is not  searched]]>
+    </line>
+    <line>
+      <![CDATA[Total number od items searched:0]]>
+    </line>
+    <line>
+      <![CDATA[The item is not  searched]]>
+    </line>
+    <line>
+      <![CDATA[Total number od items searched:17]]>
+    </line>
+    <line>
+      <![CDATA[Bar Phone]]>
+    </line>
+    <line>
+      <![CDATA[Slider Phone]]>
+    </line>
+    <line>
+      <![CDATA[Flip Phone]]>
+    </line>
+    <line>
+      <![CDATA[IPS]]>
+    </line>
+    <line>
+      <![CDATA[OLED]]>
+    </line>
+    <line>
+      <![CDATA[AMOLED]]>
+    </line>
+    <line>
+      <![CDATA[Xiaomi]]>
+    </line>
+    <line>
+      <![CDATA[Huawei]]>
+    </line>
+    <line>
+      <![CDATA[Umidigi]]>
+    </line>
+    <line>
+      <![CDATA[Octa Core]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[The item is not  searched]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-25T14:03:11 IST" name="Test Automation For Alibaba" finished-at="2021-06-25T14:05:24 IST" duration-ms="132700">
+    <groups>
+    </groups>
+    <test started-at="2021-06-25T14:03:11 IST" name="Functional Testing for Aliababa " finished-at="2021-06-25T14:05:24 IST" duration-ms="132700">
+      <class name="com.qa.test.Tc_Alibaba1">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba1@71def8f8]" started-at="2021-06-25T14:03:11 IST" name="SetUp" finished-at="2021-06-25T14:04:03 IST" duration-ms="51613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.alibaba.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="footerlink()[pri:0, instance:com.qa.test.Tc_Alibaba1@71def8f8]" started-at="2021-06-25T14:04:04 IST" name="footerlink" finished-at="2021-06-25T14:04:04 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Customer Services
+Help Center
+Contact Us
+Report Abuse
+Submit a Dispute
+Policies & Rules
+Get Paid for Your Feedback]]>
+            </line>
+            <line>
+              <![CDATA[About Us
+About Alibaba.com
+About Alibaba Group
+Sitemap]]>
+            </line>
+            <line>
+              <![CDATA[Source on Alibaba.com
+Resources
+All Categories
+Request for Quotation
+Ready to Ship
+Buyer Partners]]>
+            </line>
+            <line>
+              <![CDATA[Sell on Alibaba.com
+Supplier Memberships
+Learning Center
+Partner Program]]>
+            </line>
+            <line>
+              <![CDATA[Trade Services
+Trade Assurance
+Business Identity
+Logistics Service
+Production Monitoring & Inspection Services
+Letter of Credit]]>
+            </line>
+            <line>
+              <![CDATA[Available on the App Store Available on Android]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Twitter Youtube In]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- footerlink -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.test.Tc_Alibaba1@71def8f8]" started-at="2021-06-25T14:04:04 IST" name="TearDown" finished-at="2021-06-25T14:04:05 IST" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.test.Tc_Alibaba1 -->
+      <class name="com.qa.test.Tc_Alibaba">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@3d6f0054]" started-at="2021-06-25T14:03:11 IST" name="SetUp" finished-at="2021-06-25T14:04:06 IST" duration-ms="54283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.alibaba.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@3d6f0054]" started-at="2021-06-25T14:04:17 IST" name="searchItem" data-provider="getData" finished-at="2021-06-25T14:04:49 IST" duration-ms="32529" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at org.junit.Assert.fail(Assert.java:86)
+at org.junit.Assert.assertTrue(Assert.java:41)
+at org.junit.Assert.assertTrue(Assert.java:52)
+at com.qa.test.Tc_Alibaba.searchItem(Tc_Alibaba.java:47)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:832)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Total number od items searched:4]]>
+            </line>
+            <line>
+              <![CDATA[Used]]>
+            </line>
+            <line>
+              <![CDATA[Refurbished]]>
+            </line>
+            <line>
+              <![CDATA[New]]>
+            </line>
+            <line>
+              <![CDATA[Netbook]]>
+            </line>
+            <line>
+              <![CDATA[The item is not  searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@3d6f0054]" started-at="2021-06-25T14:04:49 IST" name="searchItem" data-provider="getData" finished-at="2021-06-25T14:05:08 IST" duration-ms="18391" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Books]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at org.junit.Assert.fail(Assert.java:86)
+at org.junit.Assert.assertTrue(Assert.java:41)
+at org.junit.Assert.assertTrue(Assert.java:52)
+at com.qa.test.Tc_Alibaba.searchItem(Tc_Alibaba.java:47)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:832)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Total number od items searched:0]]>
+            </line>
+            <line>
+              <![CDATA[The item is not  searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@3d6f0054]" started-at="2021-06-25T14:05:08 IST" name="searchItem" data-provider="getData" finished-at="2021-06-25T14:05:21 IST" duration-ms="12809" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at org.junit.Assert.fail(Assert.java:86)
+at org.junit.Assert.assertTrue(Assert.java:41)
+at org.junit.Assert.assertTrue(Assert.java:52)
+at com.qa.test.Tc_Alibaba.searchItem(Tc_Alibaba.java:47)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:832)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Total number od items searched:17]]>
+            </line>
+            <line>
+              <![CDATA[Bar Phone]]>
+            </line>
+            <line>
+              <![CDATA[Slider Phone]]>
+            </line>
+            <line>
+              <![CDATA[Flip Phone]]>
+            </line>
+            <line>
+              <![CDATA[IPS]]>
+            </line>
+            <line>
+              <![CDATA[OLED]]>
+            </line>
+            <line>
+              <![CDATA[AMOLED]]>
+            </line>
+            <line>
+              <![CDATA[Xiaomi]]>
+            </line>
+            <line>
+              <![CDATA[Huawei]]>
+            </line>
+            <line>
+              <![CDATA[Umidigi]]>
+            </line>
+            <line>
+              <![CDATA[Octa Core]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[The item is not  searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.test.Tc_Alibaba@3d6f0054]" started-at="2021-06-25T14:05:21 IST" name="TearDown" finished-at="2021-06-25T14:05:24 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.test.Tc_Alibaba -->
+    </test> <!-- Functional Testing for Aliababa  -->
+  </suite> <!-- Test Automation For Alibaba -->
+</testng-results>

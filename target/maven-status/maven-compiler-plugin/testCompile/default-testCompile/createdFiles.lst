@@ -1,0 +1,6 @@
+com\qa\test\Test_Base.class
+com\qa\pages\Alibaba_Pages.class
+com\qa\test\Tc_Alibaba.class
+com\qa\utility\ExcelUtility.class
+com\qa\utility\Reporting.class
+com\qa\test\Tc_Alibaba1.class

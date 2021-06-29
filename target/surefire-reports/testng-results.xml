@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Customer Services
+Help Center
+Contact Us
+Report Abuse
+Submit a Dispute
+Policies & Rules
+Get Paid for Your Feedback]]>
+    </line>
+    <line>
+      <![CDATA[About Us
+About Alibaba.com
+About Alibaba Group
+Sitemap]]>
+    </line>
+    <line>
+      <![CDATA[Source on Alibaba.com
+Resources
+All Categories
+Request for Quotation
+Ready to Ship
+Buyer Partners]]>
+    </line>
+    <line>
+      <![CDATA[Sell on Alibaba.com
+Supplier Memberships
+Learning Center
+Partner Program]]>
+    </line>
+    <line>
+      <![CDATA[Trade Services
+Trade Assurance
+Business Identity
+Logistics Service
+Production Monitoring & Inspection Services
+Letter of Credit]]>
+    </line>
+    <line>
+      <![CDATA[Available on the App Store Available on Android]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Twitter Youtube In]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Total number od items searched:4]]>
+    </line>
+    <line>
+      <![CDATA[New]]>
+    </line>
+    <line>
+      <![CDATA[Refurbished]]>
+    </line>
+    <line>
+      <![CDATA[Used]]>
+    </line>
+    <line>
+      <![CDATA[Netbook]]>
+    </line>
+    <line>
+      <![CDATA[The item is searched]]>
+    </line>
+    <line>
+      <![CDATA[Total number od items searched:17]]>
+    </line>
+    <line>
+      <![CDATA[Slider Phone]]>
+    </line>
+    <line>
+      <![CDATA[Bar Phone]]>
+    </line>
+    <line>
+      <![CDATA[Flip Phone]]>
+    </line>
+    <line>
+      <![CDATA[OLED]]>
+    </line>
+    <line>
+      <![CDATA[AMOLED]]>
+    </line>
+    <line>
+      <![CDATA[IPS]]>
+    </line>
+    <line>
+      <![CDATA[Xiaomi]]>
+    </line>
+    <line>
+      <![CDATA[Huawei]]>
+    </line>
+    <line>
+      <![CDATA[Umidigi]]>
+    </line>
+    <line>
+      <![CDATA[Octa Core]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[The item is searched]]>
+    </line>
+  </reporter-output>
+  <suite name="Test Automation For Alibaba" duration-ms="166084" started-at="2021-06-27T14:52:01 IST" finished-at="2021-06-27T14:54:47 IST">
+    <groups>
+    </groups>
+    <test name="Functional Testing for Aliababa " duration-ms="166084" started-at="2021-06-27T14:52:01 IST" finished-at="2021-06-27T14:54:47 IST">
+      <class name="com.qa.test.Tc_Alibaba1">
+        <test-method status="PASS" signature="SetUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba1@6fc6f14e]" name="SetUp" is-config="true" duration-ms="82643" started-at="2021-06-27T14:52:01 IST" finished-at="2021-06-27T14:53:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.alibaba.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="footerlink()[pri:0, instance:com.qa.test.Tc_Alibaba1@6fc6f14e]" name="footerlink" duration-ms="1161" started-at="2021-06-27T14:53:24 IST" finished-at="2021-06-27T14:53:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Customer Services
+Help Center
+Contact Us
+Report Abuse
+Submit a Dispute
+Policies & Rules
+Get Paid for Your Feedback]]>
+            </line>
+            <line>
+              <![CDATA[About Us
+About Alibaba.com
+About Alibaba Group
+Sitemap]]>
+            </line>
+            <line>
+              <![CDATA[Source on Alibaba.com
+Resources
+All Categories
+Request for Quotation
+Ready to Ship
+Buyer Partners]]>
+            </line>
+            <line>
+              <![CDATA[Sell on Alibaba.com
+Supplier Memberships
+Learning Center
+Partner Program]]>
+            </line>
+            <line>
+              <![CDATA[Trade Services
+Trade Assurance
+Business Identity
+Logistics Service
+Production Monitoring & Inspection Services
+Letter of Credit]]>
+            </line>
+            <line>
+              <![CDATA[Available on the App Store Available on Android]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Twitter Youtube In]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- footerlink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.test.Tc_Alibaba1@6fc6f14e]" name="TearDown" is-config="true" duration-ms="6711" started-at="2021-06-27T14:53:26 IST" finished-at="2021-06-27T14:53:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.test.Tc_Alibaba1 -->
+      <class name="com.qa.test.Tc_Alibaba">
+        <test-method status="PASS" signature="SetUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@20398b7c]" name="SetUp" is-config="true" duration-ms="72329" started-at="2021-06-27T14:52:01 IST" finished-at="2021-06-27T14:53:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.alibaba.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@20398b7c]" name="searchItem" duration-ms="38883" started-at="2021-06-27T14:53:33 IST" data-provider="getData" finished-at="2021-06-27T14:54:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total number od items searched:4]]>
+            </line>
+            <line>
+              <![CDATA[New]]>
+            </line>
+            <line>
+              <![CDATA[Refurbished]]>
+            </line>
+            <line>
+              <![CDATA[Used]]>
+            </line>
+            <line>
+              <![CDATA[Netbook]]>
+            </line>
+            <line>
+              <![CDATA[The item is searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="FAIL" signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@20398b7c]" name="searchItem" duration-ms="2089" started-at="2021-06-27T14:54:12 IST" data-provider="getData" finished-at="2021-06-27T14:54:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Books]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":".ui\-searchbar\-button\-icon"}
+  (Session info: MicrosoftEdge=91.0.864.59)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-42AMLUI', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 91.0.864.59, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:50476}, msedge: {msedgedriverVersion: 91.0.864.37 (ef0020ad63bb4f..., userDataDir: C:\Users\DELL\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcf00dde69ade7130db6bd00f64f3c29
+*** Element info: {Using=class name, value=ui-searchbar-button-icon}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".ui\-searchbar\-button\-icon"}
+  (Session info: MicrosoftEdge=91.0.864.59)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-42AMLUI', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 91.0.864.59, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:50476}, msedge: {msedgedriverVersion: 91.0.864.37 (ef0020ad63bb4f..., userDataDir: C:\Users\DELL\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcf00dde69ade7130db6bd00f64f3c29
+*** Element info: {Using=class name, value=ui-searchbar-button-icon}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:412)
+at org.openqa.selenium.By$ByClassName.findElement(By.java:389)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at com.qa.test.Tc_Alibaba.searchItem(Tc_Alibaba.java:19)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="searchItem(java.lang.String)[pri:0, instance:com.qa.test.Tc_Alibaba@20398b7c]" name="searchItem" duration-ms="20303" started-at="2021-06-27T14:54:17 IST" data-provider="getData" finished-at="2021-06-27T14:54:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total number od items searched:17]]>
+            </line>
+            <line>
+              <![CDATA[Slider Phone]]>
+            </line>
+            <line>
+              <![CDATA[Bar Phone]]>
+            </line>
+            <line>
+              <![CDATA[Flip Phone]]>
+            </line>
+            <line>
+              <![CDATA[OLED]]>
+            </line>
+            <line>
+              <![CDATA[AMOLED]]>
+            </line>
+            <line>
+              <![CDATA[IPS]]>
+            </line>
+            <line>
+              <![CDATA[Xiaomi]]>
+            </line>
+            <line>
+              <![CDATA[Huawei]]>
+            </line>
+            <line>
+              <![CDATA[Umidigi]]>
+            </line>
+            <line>
+              <![CDATA[Octa Core]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[The item is searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.test.Tc_Alibaba@20398b7c]" name="TearDown" is-config="true" duration-ms="9512" started-at="2021-06-27T14:54:37 IST" finished-at="2021-06-27T14:54:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.test.Tc_Alibaba -->
+    </test> <!-- Functional Testing for Aliababa  -->
+  </suite> <!-- Test Automation For Alibaba -->
+</testng-results>
